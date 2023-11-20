@@ -21,6 +21,7 @@ repositories {
     mavenCentral()
 }
 
+// 의존성 주입
 dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
     implementation 'org.springframework.boot:spring-boot-starter-web'
